@@ -62,3 +62,7 @@ ID
 *.orig
 *~
 \#*#
+
+*.cmake
+CMakeCache.txt
+CMakeFiles
